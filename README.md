@@ -21,7 +21,7 @@ The project aims to accurately identify the pieces on a chessboard from a given 
 The project is divided into four main Jupyter notebooks:
 
 1. **`Chess_Piece_Classification_CNN.ipynb`:** This notebook contains the code for training a CNN model to classify individual chess pieces.
-2. **`generating_tiles_computervision.ipynb`:** This notebook demonstrates how to use computer vision techniques to extract individual squares (tiles) from a chessboard image.
+2. **`generating_tiles_computervision.ipynb` (you could use `fast_tiles_generation.cpp` for faster tiles extraction):** This notebook demonstrates how to use computer vision techniques to extract individual squares (tiles) from a chessboard image.
 3. **`generating_training_data.ipynb`:** This notebook shows how to generate training data for the CNN model by extracting chess pieces from images and labeling them.
 4. **`Predict_Chessboard_CNN.ipynb`:** This notebook uses the trained CNN model to predict the pieces on a chessboard image and generate the corresponding FEN string.
 
