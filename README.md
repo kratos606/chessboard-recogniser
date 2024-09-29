@@ -67,9 +67,9 @@ Open the notebooks in the following order:
 
 generating_training_data.ipynb (optional, only if you need to generate new training data)
 
-Chess_Piece_Classification_CNN.ipynb (to train the CNN model)
-
 generating_tiles_computervision.ipynb (to understand how tiles are extracted)
+
+Chess_Piece_Classification_CNN.ipynb (to train the CNN model)
 
 Predict_Chessboard_CNN.ipynb (to predict FEN from an image)
 
