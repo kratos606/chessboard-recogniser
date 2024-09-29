@@ -2,6 +2,12 @@
 
 This repository contains a Python project, implemented as a series of Jupyter notebooks, that uses computer vision techniques and a Convolutional Neural Network (CNN) to detect the FEN (Forsyth-Edwards Notation) string from an image of a chessboard.
 
+## Demo
+![alt text](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)
+
+Try out a live demo of the chessboard recognizer on Hugging Face Spaces:
+https://huggingface.co/spaces/salominavina/chessboard-recognizer
+
 ## Description
 
 The project aims to accurately identify the pieces on a chessboard from a given image and represent the board state in the standard FEN format. This can be used for various applications, such as:
